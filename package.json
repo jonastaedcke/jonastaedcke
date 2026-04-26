@@ -1,0 +1,22 @@
+{
+  "name": "jonastaedcke",
+  "private": true,
+  "type": "module",
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions"
+  ],
+  "author": "Jonas Taedcke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonastaedcke/jonastaedcke/issues"
+  },
+  "homepage": "https://github.com/jonastaedcke/jonastaedcke#readme",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.8.3"
+  }
+}
