@@ -21,7 +21,8 @@ Docker       0 hrs 7 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 <p>
-  <a href="https://github.com/jonastaedcke/jonastaedcke/actions"><img src="https://github.com/jonastaedcke/jonastaedcke/actions/workflows/build-readme.yml/badge.svg" align="right" alt="Build Readme"></a><samp><a href="https://taedc.ke">https://taedc.ke</a></samp>
+  <a href="https://github.com/jonastaedcke/jonastaedcke/actions"><img src="https://github.com/jonastaedcke/jonastaedcke/actions/workflows/build-readme.yml/badge.svg" align="right" alt="Build Readme"></a>
+  <samp><a target="_blank" href="https://taedc.ke">https://taedc.ke</a></samp>
 </p>
 
 ---
