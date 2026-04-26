@@ -13,6 +13,11 @@
 <!--END_SECTION:waka-->
 
 <p>
-  <a href="https://github.com/jonastaedcke/jonastaedcke/actions"><img src="https://github.com/jonastaedcke/jonastaedcke/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a><samp><a href="https://taedc.ke">https://taedc.ke</a></samp>
+  <a href="https://github.com/jonastaedcke/jonastaedcke/actions"><img src="https://github.com/jonastaedcke/jonastaedcke/actions/workflows/build-readme.yml/badge.svg" align="right" alt="Build Readme"></a><samp><a href="https://taedc.ke">https://taedc.ke</a></samp>
 </p>
 
+---
+
+<p align="center">
+  This <i>README</i> file is generated <b>every 30 days</b>!</br>Last refresh: _
+</p>

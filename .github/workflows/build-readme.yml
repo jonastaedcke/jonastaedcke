@@ -1,4 +1,4 @@
-name: Build Readme
+name: build-readme
 
 on:
   schedule:
@@ -9,6 +9,12 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      - name: Update refresh timestamp
+        run: |
+          TIMESTAMP=$(TZ='Europe/Berlin' date '+%A, %-d %B, %H:%M %Z')
+          sed -i "s|Last refresh:.*|Last refresh: $TIMESTAMP|" README.md
+
       - uses: athul/waka-readme@master
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
@@ -17,4 +23,4 @@ jobs:
           BLOCKS: '⬜🟨🟩'
           TIME_RANGE: last_30_days
           SHOW_TIME: true
-          IGNORED_LANGUAGES: UNKNOWN INI
+          IGNORED_LANGUAGES: Unknown INI
