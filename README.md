@@ -28,5 +28,5 @@ CSV              0 hrs 29 mins         🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <p align="center">
-  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, 4 June, 03:28 CEST
+  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Friday, 5 June, 03:18 CEST
 </p>
