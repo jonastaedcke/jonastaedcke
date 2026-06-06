@@ -28,5 +28,5 @@ Json             0 hrs 24 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <p align="center">
-  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Friday, 5 June, 03:18 CEST
+  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Saturday, 6 June, 03:13 CEST
 </p>
