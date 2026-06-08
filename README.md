@@ -28,5 +28,5 @@ YAML             0 hrs 20 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <p align="center">
-  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Sunday, 7 June, 03:22 CEST
+  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 8 June, 03:22 CEST
 </p>
