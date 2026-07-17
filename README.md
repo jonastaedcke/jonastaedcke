@@ -34,5 +34,5 @@ Docker                             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <p align="center">
-  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 22 June, 03:26 CEST
+  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Friday, 17 July, 10:27 CEST
 </p>
