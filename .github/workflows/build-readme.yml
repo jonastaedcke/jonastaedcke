@@ -17,7 +17,7 @@ jobs:
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: '⬜🟨🟩'
           TIME_RANGE: last_30_days
-          SHOW_TIME: false
+          SHOW_TIME: true
           # IGNORED_LANGUAGES: Unknown INI
           LANG_COUNT: 10
       - name: Update refresh timestamp
