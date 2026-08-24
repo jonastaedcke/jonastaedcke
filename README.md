@@ -34,5 +34,5 @@ XML          0 hrs 5 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <p align="center">
-  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Sunday, 23 August, 03:29 CEST
+  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 24 August, 03:25 CEST
 </p>
