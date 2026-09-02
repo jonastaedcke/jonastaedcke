@@ -34,5 +34,5 @@ Docker       0 hrs 7 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <p align="center">
-  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 1 September, 06:11 CEST
+  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Wednesday, 2 September, 05:34 CEST
 </p>
