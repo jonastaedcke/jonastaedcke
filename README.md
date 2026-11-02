@@ -34,5 +34,5 @@ TOML                       2 hrs 44 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <p align="center">
-  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Sunday, 1 November, 01:40 CET
+  This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 2 November, 01:35 CET
 </p>
